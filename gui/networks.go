@@ -8,8 +8,8 @@ import (
 	"github.com/docker/docker/api/types"
 	"github.com/gdamore/tcell"
 	"github.com/rivo/tview"
-	"github.com/skanehira/docui/common"
-	"github.com/skanehira/docui/docker"
+	"github.com/wallentx/docui/common"
+	"github.com/wallentx/docui/docker"
 )
 
 type network struct {

@@ -7,7 +7,7 @@ import (
 
 	"github.com/gdamore/tcell"
 	"github.com/rivo/tview"
-	"github.com/skanehira/docui/docker"
+	"github.com/wallentx/docui/docker"
 )
 
 type info struct {

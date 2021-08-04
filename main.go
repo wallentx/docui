@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/skanehira/docui/common"
-	"github.com/skanehira/docui/docker"
-	"github.com/skanehira/docui/gui"
+	"github.com/wallentx/docui/common"
+	"github.com/wallentx/docui/docker"
+	"github.com/wallentx/docui/gui"
 )
 
 var (
