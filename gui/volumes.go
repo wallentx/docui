@@ -6,8 +6,8 @@ import (
 
 	"github.com/gdamore/tcell"
 	"github.com/rivo/tview"
-	"github.com/skanehira/docui/common"
-	"github.com/skanehira/docui/docker"
+	"github.com/wallentx/docui/common"
+	"github.com/wallentx/docui/docker"
 )
 
 var replacer = strings.NewReplacer("T", " ", "Z", "")

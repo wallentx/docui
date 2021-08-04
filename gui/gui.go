@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/rivo/tview"
-	"github.com/skanehira/docui/common"
+	"github.com/wallentx/docui/common"
 )
 
 type panels struct {
